@@ -1,0 +1,9 @@
+.settingsContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.settingsContainerRight {
+  display: flex;
+}
